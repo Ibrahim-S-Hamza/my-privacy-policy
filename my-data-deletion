@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>User Data Deletion</title>
+</head>
+<body>
+  <h1>Data Deletion Instructions</h1>
+  <p>
+    If you would like to request deletion of your account data from our system, 
+    please send an email to <strong>support@example.com</strong> with the subject 
+    “Delete My Data” and include your account email address.
+  </p>
+  <p>
+    We will process your request within 30 days as required by Facebook policy.
+  </p>
+</body>
+</html>
