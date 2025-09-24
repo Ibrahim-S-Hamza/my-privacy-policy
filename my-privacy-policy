@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Privacy Policy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 40px auto;
+            line-height: 1.6;
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        p {
+            margin-bottom: 15px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy</h1>
+    <p>Your privacy is important to us. This Privacy Policy explains how our application handles your information.</p>
+
+    <h2>Information We Collect</h2>
+    <p>When you sign in using Facebook or Google, we only collect your basic profile information (such as your name and email address) to create your account in our system.</p>
+
+    <h2>How We Use Your Information</h2>
+    <p>Your information is used solely for authentication and providing access to our services. We do not share your personal data with third parties.</p>
+
+    <h2>Contact Us</h2>
+    <p>If you have any questions about this Privacy Policy, you can contact us at support@myrestaurantapp.com.</p>
+</body>
+</html>
